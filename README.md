@@ -13,7 +13,7 @@ const duy = {
   pronouns: "he" | "his",
   education: "FPT Polytechnic",
   code: [Java, HTML, CSS, JavaScript, Jquery, Ajax],
-  tools: [Eclipse, Spring Tool Suite, MySQL Workbench, SQL Server]
+  tools: [Eclipse, Spring Tool Suite, MySQL Workbench, SQL Server],
   challenge: "I am doing the #100DaysOfCode challenge focused on java"
 }
 ```
