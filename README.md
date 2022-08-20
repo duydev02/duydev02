@@ -1,5 +1,4 @@
 <h2> Hi, I'm Duymoiz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://giphy.com/gifs/kroppa-stayhome-homeoffice-evdekal-J1QksVy2OTerDaO6Or" width="230">
 
 [![Twitter: duymoiz](https://img.shields.io/twitter/follow/duymoiz?style=social)](https://twitter.com/duymoiz)
 [![Linkedin: duymoiz](https://img.shields.io/badge/-duymoiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duymoiz/)](https://www.linkedin.com/in/duymoiz/)
