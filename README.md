@@ -1,8 +1,8 @@
-<h2> Hi, I'm Duymoiz! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Duydev02! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-[![Twitter: duymoiz](https://img.shields.io/twitter/follow/duymoiz?style=social)](https://twitter.com/duymoiz)
-[![Linkedin: duymoiz](https://img.shields.io/badge/-duymoiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duymoiz/)](https://www.linkedin.com/in/duymoiz/)
-[![GitHub Duymoiz](https://img.shields.io/github/followers/duymoiz?label=follow&style=social)](https://github.com/duymoiz)
+[![Twitter: Duydev02](https://img.shields.io/twitter/follow/duydev02?style=social)](https://twitter.com/duydev02)
+[![Linkedin: Duydev02](https://img.shields.io/badge/-duydev02-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duydev02/)](https://www.linkedin.com/in/duydev02/)
+[![GitHub Duydev02](https://img.shields.io/github/followers/duydev02?label=follow&style=social)](https://github.com/duydev02)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
