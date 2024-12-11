@@ -9,11 +9,14 @@
 
 ```javascript
 const duy = {
+  summary: "Ai cung phai bat dau tu dau do",
   pronouns: "he" | "his",
   education: "FPT Polytechnic",
-  code: [Java, HTML, CSS, JavaScript, Ajax, Node.js],
-  tools: [Eclipse, IntelliJ, SQL Server, VSCode, Postman],
-  challenge: "I am doing the #100DaysOfCode challenge focused on java"
+  company: "FUJINET SYSTEMS JSC x VINX",
+  interest: [music, gym, travel, coding],
+  code: [Java, Spring, JavaScript, Ajax, Node.js, HTML, CSS],
+  db: [Oracle, SQL Server, MySQL, MongoDB],
+  challenge: "I am doing the #100DaysOfCode challenge focused on myself"
 }
 ```
 
